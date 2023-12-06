@@ -5,3 +5,4 @@ seaborn
 pickle
 sklearn
 ntkl
+PorterStemmer
