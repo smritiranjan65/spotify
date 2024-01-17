@@ -6,3 +6,4 @@ pickle
 sklearn
 ntkl
 PorterStemmer
+numpy as np
